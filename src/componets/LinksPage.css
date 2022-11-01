@@ -194,3 +194,47 @@ border-radius: 8px;
         color: #eaecf0;
         font-size: 10px;
     }
+    .fcc-btn:hover{
+        background-color: black;
+
+    }
+    .fcc-btn1:hover{
+        background-color: black;
+    }
+    .fcc-btn2:hover{
+        background-color: black;
+    }
+    .fcc-btn3:hover{
+        background-color: black;
+    }
+    .fcc-btn4:hover{
+        background-color: black;
+    }
+    .fcc-btn5:hover{
+        background-color: black;
+    }
+    .fcc-btn span:hover{
+        background-color: black;
+        color: #EAECF0;
+        
+    }
+    .fcc-btn1 span:hover{
+      background-color: black;
+     color: #EAECF0;
+    }
+    .fcc-btn2 span:hover{
+    background-color: black;
+    color: #EAECF0;
+}
+    .fcc-btn3 span:hover{
+    background-color: black;
+    color: #EAECF0;
+}
+    .fcc-btn4 span:hover{
+    background-color: black;
+    color: #EAECF0;
+}
+.fcc-btn5 span:hover{
+    background-color: black;
+    color: #EAECF0;
+}
