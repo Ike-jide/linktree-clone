@@ -3,6 +3,7 @@ import './LinksPage.css';
 
 
 
+
 function LinksPage(){
     return(
         <div className="links">
@@ -18,7 +19,10 @@ function LinksPage(){
              <li id='book__python'><a target="_blank" rel="noreferrer"className="fcc-btn3" href="https://books.zuri.team"><span>Python Books</span><span className="subtext2">Use this link and get 20% off and donate to my channel</span></a></li>
              <li id='pitch'><a target="_blank" rel="noreferrer"className="fcc-btn4" href="https://background.zuri.team"><span>Background Check for Coders</span><span className="subtext3">This is the best site to check out upcoming software developers</span></a></li>
              <li id='book__design'><a target="_blank" rel="noreferrer"className="fcc-btn5" href="https://books.zuri.team/design-rules"><span>Design Books</span><span className="subtext4">Use this link to access the free zuri design book</span></a></li>
+             <li id='contact'><a target="_blank" rel="noreferrer"className="fcc-btn6" href="/contact"><span>Contact me</span></a></li>
+             
              </ul>
+             
         </div>
     )
 }
