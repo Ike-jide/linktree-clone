@@ -57,7 +57,7 @@ console.warn("all data",enteredFirstName,enteredLastName,enteredEmailName,entere
            type="checkbox"
            /><span>Agree to the terms and conditions</span><br/><br/>
             <button
-            id="btn_submit"
+            id="btn__submit"
             >Submit</button>
         </form>
     </div>
